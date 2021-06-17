@@ -1,4 +1,5 @@
-# hochbeet_SSD21Tobias Gailhofer, 01629220
+# hochbeet_SSD21
+Tobias Gailhofer, 01629220
 Daniela Hell, 11771845
 
 Get started:
