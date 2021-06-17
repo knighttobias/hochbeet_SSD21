@@ -10,12 +10,19 @@ Extract Zip File, run docker-compose on the .yml file, set up hardware with MQTT
 
 get/post examples for testing with values:
  [GET]: tobias-network-storage.synology.me:1880/currentstate
+ 
  [GET]: tobias-network-storage.synology.me:1880/weather
+ 
  [GET]: tobias-network-storage.synology.me:1880/temperature
+ 
  [GET]: tobias-network-storage.synology.me:1880/airhumid
+ 
  [GET]: tobias-network-storage.synology.me:1880/soilhumid
+ 
  [GET]: tobias-network-storage.synology.me:1880/waterlevel
+ 
  [POST]: tobias-network-storage.synology.me:1880/watermanual/{duration}
+ 
  [POST]: tobias-network-storage.synology.me:1880/waterschedule/{mode}
 
 
