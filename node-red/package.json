@@ -1,0 +1,13 @@
+{
+    "name": "node-red-project",
+    "description": "A Node-RED Project",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "@node-red-tools/node-red-contrib-openapi": "~0.4.0",
+        "node-red-contrib-influxdb": "~0.6.1",
+        "node-red-contrib-moment": "~4.0.0",
+        "node-red-dashboard": "~2.29.3",
+        "openapi-red": "~1.0.1"
+    }
+}
